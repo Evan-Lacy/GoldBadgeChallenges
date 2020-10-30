@@ -8,19 +8,28 @@ namespace Cafe_Repo
 {
     public class Menu
     {
+        //properties
+        public int MealNumber { get; }
 
-        //Create new menu items
+        public string Name { get; set; }
 
-        //Read
-        //Get all menu items
-        //Get menu items by number
-        //Get menu items by name
-        //Get meal ingredients
+        public string Description { get; set; }
 
-        //Update
-        //not done yet
+        public List<string> Ingredients { get; set; }
 
-        //Delete
-        //Remove a menu item by name
+        public double Price { get; set; }
+
+        //empty constructor
+        public Menu() { }
+
+        //overloaded/full constructor
+        public Menu(int num, string name, string description, List<string> ingredients, double price)
+        {
+            MealNumber = num;
+            Name = name;
+            Description = description;
+            Ingredients = ingredients;
+            Price = price;
+        }
     }
 }
