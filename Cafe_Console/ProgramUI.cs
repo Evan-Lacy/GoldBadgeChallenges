@@ -69,23 +69,22 @@ namespace Cafe_Console
                 {
                     case 1:
                         //See all menu
-                        Console.Clear();
                         ShowMenu();
                         Console.ReadLine();
                         break;
                     case 2:
                         //Pick meal number
-                        Console.Clear();
+                        PickMealByNumber();
                         Console.ReadLine();
                         break;
                     case 3:
                         //Pick meal name
-                        Console.Clear();
+                        PickMealByName();
                         Console.ReadLine();
                         break;
                     case 4:
                         //Add new meal
-                        Console.Clear();
+                        AddMenuItem();
                         Console.ReadLine();
                         break;
                     case 5:
@@ -95,7 +94,7 @@ namespace Cafe_Console
                         break;
                     case 6:
                         //delete menu item
-                        Console.Clear();
+                        RemoveMenuItem();
                         Console.ReadLine();
                         break;
                     case 7:
@@ -115,7 +114,7 @@ namespace Cafe_Console
 
             _menuRepo.AddMenuItem(burger);
         }
-
+        
         public void ShowMenu()
         {
             Console.Clear();
@@ -128,6 +127,95 @@ namespace Cafe_Console
             }
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
+        }
+
+        public void AddMenuItem()
+        {
+            Console.Clear();
+
+            Menu meal = new Menu();//new up a menu item and add it
+
+            Console.WriteLine("Please enter a meal number");
+            meal.MealNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Please enter a name for this meal");
+            meal.Name = Console.ReadLine();
+
+            Console.WriteLine("Please enter the description for this dish");
+            meal.Description = Console.ReadLine();
+
+            Console.WriteLine("Please enter the list of ingredients for this dish, separated by commas.");
+            meal.Ingredients = Console.ReadLine();
+
+            Console.WriteLine("Please enter the price of your meal");
+            meal.Price = Convert.ToDouble(Console.ReadLine());
+
+            bool wasMade = _menuRepo.AddMenuItem(meal);
+            if (wasMade == true)
+            {
+                Console.WriteLine("You have made a dish! You utter madlad");
+            }
+            else
+            {
+                Console.WriteLine("Give me your jacket and leave Hell's Kitchen!");
+            }
+        }
+
+        public void PickMealByNumber()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Enter the number of the meal you wish to see.");
+            int mealNum = Convert.ToInt32(Console.ReadLine());
+
+            Menu meal = _menuRepo.GetMealByNumber(mealNum);
+            if(meal != null)
+            {
+                DisplayMenu(meal);
+            }
+            else
+            {
+                Console.WriteLine("There are no meals by that number, sorry!");
+            }
+            Console.ReadKey();
+        }
+
+        public void PickMealByName()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Enter the name of the meal you wish to see.");
+            string mealName = Console.ReadLine();
+
+            Menu meal = _menuRepo.GetMealByName(mealName);
+            if (meal != null)
+            {
+                DisplayMenu(meal);
+            }
+            else
+            {
+                Console.WriteLine("There are no meals by that name, sorry!");
+            }
+            Console.ReadKey();
+        }
+
+        public void RemoveMenuItem()
+        {
+            Console.Clear();
+
+            ShowMenu();
+            Console.WriteLine("Enter the name of the item you wish to yeet off this menu.");
+            string name = Console.ReadLine();
+            //Menu meal = _menuRepo.GetMealByName(name);
+            bool wasYote = _menuRepo.DeleteMealFromMenu(name);
+            if (wasYote)
+            {
+                Console.WriteLine("The meal was yote from our menu, with feeling.");
+            }
+            else
+            {
+                Console.WriteLine("Could not yeet the meal away. Try again.");
+            }
         }
 
         private void DisplayMenu(Menu menu)//helper method

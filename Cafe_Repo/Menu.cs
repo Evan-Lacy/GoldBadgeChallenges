@@ -9,7 +9,7 @@ namespace Cafe_Repo
     public class Menu
     {
         //properties
-        public int MealNumber { get; }
+        public int MealNumber { get; set; }
 
         public string Name { get; set; }
 

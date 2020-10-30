@@ -27,9 +27,30 @@ namespace Cafe_Repo
         {
             return _menu;
         }
-
         //Get menu items by number
+        public Menu GetMealByNumber(int num)
+        {
+            foreach (Menu meal in _menu)
+            {
+                if (meal.MealNumber == num)
+                {
+                    return meal;
+                }
+            }
+            return null;
+        }
         //Get menu items by name
+        public Menu GetMealByName(string name)
+        {
+            foreach (Menu meal in _menu)
+            {
+                if (meal.Name.ToLower() == name.ToLower())
+                {
+                    return meal;
+                }
+            }
+            return null;
+        }
         //Get meal ingredients
 
         //Update
@@ -37,5 +58,19 @@ namespace Cafe_Repo
 
         //Delete
         //Remove a menu item by name
+        public bool DeleteMealFromMenu(string menuItem)
+        {
+            foreach (Menu meal in _menu)
+            {
+                if (meal.Name.ToLower() == menuItem.ToLower())
+                {
+                    bool deleteResult = _menu.Remove(meal);
+                    return deleteResult;
+
+                }
+
+            }
+            return false;
+        }
     }
 }

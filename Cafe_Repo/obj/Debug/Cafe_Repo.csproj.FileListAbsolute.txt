@@ -3,3 +3,4 @@ C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Repo\bin\Debug\Cafe_Repo.pd
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Repo\obj\Debug\Cafe_Repo.csproj.CoreCompileInputs.cache
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Repo\obj\Debug\Cafe_Repo.dll
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Repo\obj\Debug\Cafe_Repo.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Repo\obj\Debug\Cafe_Repo.csprojAssemblyReference.cache
