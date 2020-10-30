@@ -15,7 +15,7 @@ namespace Cafe_Repo
 
         public string Description { get; set; }
 
-        public List<string> Ingredients { get; set; }
+        public string Ingredients { get; set; }
 
         public double Price { get; set; }
 
@@ -23,7 +23,7 @@ namespace Cafe_Repo
         public Menu() { }
 
         //overloaded/full constructor
-        public Menu(int num, string name, string description, List<string> ingredients, double price)
+        public Menu(int num, string name, string description, string ingredients, double price)
         {
             MealNumber = num;
             Name = name;
