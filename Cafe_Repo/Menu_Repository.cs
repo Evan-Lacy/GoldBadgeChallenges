@@ -58,11 +58,11 @@ namespace Cafe_Repo
 
         //Delete
         //Remove a menu item by name
-        public bool DeleteMealFromMenu(string menuItem)
+        public bool DeleteMealFromMenu(Menu menuItem)
         {
             foreach (Menu meal in _menu)
             {
-                if (meal.Name.ToLower() == menuItem.ToLower())
+                if (meal.Name.ToLower() == menuItem.Name.ToLower())
                 {
                     bool deleteResult = _menu.Remove(meal);
                     return deleteResult;

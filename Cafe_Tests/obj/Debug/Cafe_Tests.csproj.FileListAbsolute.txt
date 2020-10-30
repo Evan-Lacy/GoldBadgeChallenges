@@ -12,3 +12,5 @@ C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.csproj.CopyComplete
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.dll
 C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Repo.pdb

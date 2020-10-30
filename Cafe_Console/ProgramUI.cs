@@ -206,8 +206,8 @@ namespace Cafe_Console
             ShowMenu();
             Console.WriteLine("Enter the name of the item you wish to yeet off this menu.");
             string name = Console.ReadLine();
-            //Menu meal = _menuRepo.GetMealByName(name);
-            bool wasYote = _menuRepo.DeleteMealFromMenu(name);
+            Menu meal = _menuRepo.GetMealByName(name);
+            bool wasYote = _menuRepo.DeleteMealFromMenu(meal);
             if (wasYote)
             {
                 Console.WriteLine("The meal was yote from our menu, with feeling.");
