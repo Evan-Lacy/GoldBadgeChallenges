@@ -1,0 +1,7 @@
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\bin\Debug\Badges_Console.exe.config
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\bin\Debug\Badges_Console.exe
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\bin\Debug\Badges_Console.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\obj\Debug\Badges_Console.csprojAssemblyReference.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\obj\Debug\Badges_Console.csproj.CoreCompileInputs.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\obj\Debug\Badges_Console.exe
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Console\obj\Debug\Badges_Console.pdb
