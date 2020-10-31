@@ -14,16 +14,16 @@
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
 ## Technologies
 * Console App C# .NET Framework - version 4.7.2
 * Unit Test Project C# .NET Framework - version 4.7.2
 * Class Library C# .NET Framework - version 4.7.2
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Feel free to clone the repository and check out these projects! Use your command prompt/terminal to navigate to the folder you wish to house the program and enter the line below.
+'''
+$ git clone https://github.com/Evan-Lacy/GoldBadgeChallenges.git
+'''
 
 ## Code Examples
 Show examples of usage:
