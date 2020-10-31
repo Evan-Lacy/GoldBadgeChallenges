@@ -1,4 +1,4 @@
-# Project Name
+# Gold Badge Challenges
 > Here goes your awesome project description!
 
 ## Table of contents
@@ -18,9 +18,9 @@ Add more general information about project. What the purpose of the project is? 
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Console App C# .NET Framework - version 4.7.2
+* Unit Test Project C# .NET Framework - version 4.7.2
+* Class Library C# .NET Framework - version 4.7.2
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
