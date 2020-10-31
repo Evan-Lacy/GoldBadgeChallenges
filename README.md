@@ -21,9 +21,9 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Setup
 Feel free to clone the repository and check out these projects! Use your command prompt/terminal to navigate to the folder you wish to house the program and enter the line below.
-'''
+```bash
 $ git clone https://github.com/Evan-Lacy/GoldBadgeChallenges.git
-'''
+```
 
 ## Code Examples
 Show examples of usage:
