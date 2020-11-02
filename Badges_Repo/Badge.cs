@@ -14,6 +14,11 @@ namespace Badges_Repo
 
         public Badge() { }
 
+        public Badge(int id)
+        {
+            BadgeID = id;
+        }
+
         public Badge(int badgeId, List<string> access)
         {
             BadgeID = badgeId;

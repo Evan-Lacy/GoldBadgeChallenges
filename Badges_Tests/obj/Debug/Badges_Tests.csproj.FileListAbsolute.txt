@@ -1,0 +1,16 @@
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Badges_Tests.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Badges_Tests.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Badges_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Badges_Repo.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\obj\Debug\Badges_Tests.csprojAssemblyReference.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\obj\Debug\Badges_Tests.csproj.CoreCompileInputs.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\obj\Debug\Badges_Tests.csproj.CopyComplete
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\obj\Debug\Badges_Tests.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Tests\obj\Debug\Badges_Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\bin\Debug\Badges_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\bin\Debug\Badges_Repo.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\obj\Debug\Badges_Repo.csprojAssemblyReference.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\obj\Debug\Badges_Repo.csproj.CoreCompileInputs.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\obj\Debug\Badges_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Badges_Repo\obj\Debug\Badges_Repo.pdb
