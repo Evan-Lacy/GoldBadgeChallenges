@@ -1,0 +1,6 @@
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\bin\Debug\Outings_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\bin\Debug\Outings_Repo.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\obj\Debug\Outings_Repo.csprojAssemblyReference.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\obj\Debug\Outings_Repo.csproj.CoreCompileInputs.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\obj\Debug\Outings_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Repo\obj\Debug\Outings_Repo.pdb

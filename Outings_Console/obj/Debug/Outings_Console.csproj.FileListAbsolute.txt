@@ -1,0 +1,12 @@
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Outings_Console.exe.config
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Outings_Console.exe
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Outings_Console.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Outings_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Outings_Repo.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\obj\Debug\Outings_Console.csprojAssemblyReference.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\obj\Debug\Outings_Console.csproj.CoreCompileInputs.cache
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\obj\Debug\Outings_Console.csproj.CopyComplete
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\obj\Debug\Outings_Console.exe
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\obj\Debug\Outings_Console.pdb
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Badges_Repo.dll
+C:\Users\lacye\source\repos\GoldBadgeChallenges\Outings_Console\bin\Debug\Badges_Repo.pdb
