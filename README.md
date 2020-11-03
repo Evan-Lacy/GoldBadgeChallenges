@@ -20,7 +20,7 @@
 * Class Library C# .NET Framework - version 4.7.2
 
 ## Setup
-Feel free to clone the repository and check out these projects! Use your command prompt/terminal to navigate to the folder you wish to house the program and enter the line below.
+Feel free to clone the repository and check out these projects! If you do wish to use them, please do create a separate branch, and please remember to credit me if you clone it and reupload it. Use your command prompt/terminal to navigate to the folder you wish to house the program and enter the line below.
 ```bash
 $ git clone https://github.com/Evan-Lacy/GoldBadgeChallenges.git
 ```
